@@ -1,0 +1,21 @@
+
+Joe Gwynn
+
+
+# Preproposal
+
+	## What idea(s) do you have for your final project?
+
+	Idea 1
+	Building a mini arcade where the user can choose from 2 games and a jukebox where the user can choose music 		to listen too. The jukebox will have options from coountry to rock to play songs from while playing the 		games.
+
+	Idea 2
+	Another option is building a fitness tracking type app that ill use the users weight height and age to help 	track their calories and log their exercises.  The user will receive their calorie and macro ranges based on 	their needs.  Then the user can input their meals and exercises for their day to track their progress.
+
+	## If you plan to collaborate with one or two classmates, what are their names?
+
+	Francesco Giacca
+
+	## Do you have any questions of your own?
+
+	I have no questions.
