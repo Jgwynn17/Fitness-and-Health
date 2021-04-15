@@ -1,0 +1,58 @@
+# Joe Gwynn Proposal
+
+## What will (likely) be the title of your project?
+
+
+Health and Fitness Tracker
+
+
+## In just a sentence or two, summarize your project. (E.g., "A website that lets you buy and sell stocks.")
+
+
+A website that will allow you to track your health and fitness.  It will give you suggestions based on your progress to help you reach your goals.
+
+
+## In a paragraph or more, detail your project. What will your software do? What features will it have? How will it be executed?
+
+
+The program will take in your current weight, height, age, and more to calculate your current BMI and estimate of your BMR.  Then the program will ask you for your fitness and health goals.  It will provide an estimate of calories you need to eat in order to reach your goals. You will be able to log your calories into the program and the macros that you wish to track.  The program will add everything up for you.  
+
+
+## If planning to combine 1051's final project with another course's final project, with which other course? And which aspect(s) of your proposed project would relate to 1051, and which aspect(s) would relate to the other course?
+
+
+N/A
+
+
+## If planning to collaborate with 1 or 2 classmates for the final project, list their names, email addresses, and the names of their assigned TAs below.
+
+
+Francesco Giacca 
+tun33540@temple.edu
+TA: Chong Li
+
+
+## In the world of software, most everything takes longer to implement than you expect. And so it's not uncommon to accomplish less in a fixed amount of time than you hope.
+
+### In a sentence (or list of features), define a GOOD outcome for your final project. I.e., what WILL you accomplish no matter what?
+
+
+A definite outcome would be a website that calculates your BMI and BMR and will allow you to track your calories and the macros of protein, carbohydrates, and fats.
+
+
+### In a sentence (or list of features), define a BETTER outcome for your final project. I.e., what do you THINK you can accomplish before the final project's deadline?
+
+
+A better outcome would be that the program will also provide to you information to help you reach your goals.  
+
+
+### In a sentence (or list of features), define a BEST outcome for your final project. I.e., what do you HOPE to accomplish before the final project's deadline?
+
+
+The best outcome would be for the program to store previously entered data so that if the user would like to log the same food, whether it be the same or different serving sizes, they can search up the food in previously entered foods to log it.
+
+
+## In a paragraph or more, outline your next steps. What new skills will you need to acquire? What topics will you need to research? If working with one of two classmates, who will do what?
+
+
+First we will need to learn how to implement our program into a website or downloadable application.  We need to learn how to use textbox input for the user.  We plan to split up the work as in one of use builds the website or applicaiton foundation while the other makes the functions that will be used.   
