@@ -233,7 +233,6 @@ def calorieFinder():
                     value = True
         else:
             print("Please enter your gender: male or female ")
-    return gender_choice       
     
 calorieFinder()
     
