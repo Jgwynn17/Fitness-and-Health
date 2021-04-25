@@ -1,3 +1,12 @@
+#This is the link to the youtube video explaining our project
+
+https://youtu.be/lveIHKq9NAE 
+
+
+
+
+
+
 '''Francesco & Joe Fitness Tracker'''
 
 '''CIS 1051 Spring 2021'''
@@ -432,9 +441,7 @@ def main():
     print("Please check your files to see your food log")
             
 
-main()
-
-            
+main()        
         
     
     
